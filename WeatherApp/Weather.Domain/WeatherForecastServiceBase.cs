@@ -6,7 +6,20 @@ using System.Threading.Tasks;
 
 namespace Weather.Domain
 {
-    class WeatherForecastServiceBase
+    public abstract class WeatherForecastServiceBase : IWeatherForecastService
     {
+        public abstract IEnumerable<City> GetCity(string cityName);
+
+        public abstract City FindCity(int id);
+        public abstract IEnumerable<Forecast> GetForecast(City city);
+
+        protected virtual void Dispose(bool disposing)
+        {
+        }
+        public void Dispose()
+        {
+            Dispose(true);
+            GC.SuppressFinalize(this);
+        }
     }
 }

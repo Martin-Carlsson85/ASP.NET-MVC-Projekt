@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace Weather.Domain
 {
-    class City
+    public partial class City
     {
+        public City()
+        {
+        }
+        public City(JToken cityToken)
+        {
+            Name = cityToken.Value<string>("name");
+            Region = cityToken.Value<string>("adminName1");
+            Country = cityToken.Value<string>("countryName");
+        }
     }
 }

@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Weather.Domain
 {
-    class IWeatherForecastService
+    public interface IWeatherForecastService : IDisposable
     {
+        IEnumerable<City> GetCity(string cityName);
+        City FindCity(int id);
+        IEnumerable<Forecast> GetForecast(City city);
     }
 }

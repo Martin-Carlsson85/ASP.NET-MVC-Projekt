@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace Weather.Domain
 {
-    class Forecast
+    public partial class Forecast
     {
+        public Forecast()
+        {
+        }
+        public Forecast(XElement day, int cityId, DateTime lastUpdate, DateTime nextUpdate)
+        {
+            CityID = cityId;
+            Period = (int)day.Attribute("period");
+            Temperature = (int)day.Element("temperature").Attribute("value");
+            Symbol = (int)day.Element("symbol").Attribute("number");
+            LastUpdate = lastUpdate;
+            NextUpdate = nextUpdate;
+        }
     }
 }
