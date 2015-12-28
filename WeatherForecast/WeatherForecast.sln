@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecast.MVC", "WeatherForecast.MVC\WeatherForecast.MVC.csproj", "{617665B9-673A-4B49-B768-8000897A9E6F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4169C413-44D0-49D7-8CBA-596F4EF73F23} = {4169C413-44D0-49D7-8CBA-596F4EF73F23}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecast.Domain", "WeatherForecast.Domain\WeatherForecast.Domain.csproj", "{4169C413-44D0-49D7-8CBA-596F4EF73F23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{617665B9-673A-4B49-B768-8000897A9E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617665B9-673A-4B49-B768-8000897A9E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617665B9-673A-4B49-B768-8000897A9E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617665B9-673A-4B49-B768-8000897A9E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4169C413-44D0-49D7-8CBA-596F4EF73F23}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{4169C413-44D0-49D7-8CBA-596F4EF73F23}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{4169C413-44D0-49D7-8CBA-596F4EF73F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4169C413-44D0-49D7-8CBA-596F4EF73F23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
