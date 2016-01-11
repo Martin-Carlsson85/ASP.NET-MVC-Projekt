@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace WeatherForecast.Domain
 {
-   public abstract class WeatherForecastServiceBase : IWeatherForecastService
+    public abstract class WeatherForecastServiceBase : IWeatherForecastService
     {
-       public abstract IEnumerable<City> GetCity(string cityName);
+        public abstract IEnumerable<City> GetCity(string cityName);
 
-       public abstract City FindCity(int id);
-       public abstract IEnumerable<Forecast> GetForecast(City city);
+        public abstract City FindCity(int id);
+        public abstract IEnumerable<Forecast> GetForecast(City city);
 
         protected virtual void Dispose(bool disposing)
         {

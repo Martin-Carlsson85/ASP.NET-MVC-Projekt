@@ -32,3 +32,37 @@ C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\Nytt\Nytt igen\Individuellt-a
 C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\Nytt\Nytt igen\Individuellt-arbete-1DV409-master\WeatherForecast.MVC\obj\Debug\WeatherForecast.MVC.csprojResolveAssemblyReference.cache
 C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\Nytt\Nytt igen\Individuellt-arbete-1DV409-master\WeatherForecast.MVC\obj\Debug\WeatherForecast.MVC.dll
 C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\Nytt\Nytt igen\Individuellt-arbete-1DV409-master\WeatherForecast.MVC\obj\Debug\WeatherForecast.MVC.pdb
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\WeatherForecast.MVC.dll.config
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\WeatherForecast.MVC.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\WeatherForecast.MVC.pdb
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\Antlr3.Runtime.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\EntityFramework.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\Newtonsoft.Json.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\NotFoundMvc.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\System.Web.Helpers.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\System.Web.Mvc.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\System.Web.Optimization.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\System.Web.Razor.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\System.Web.WebPages.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\WeatherForecast.Domain.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\WebGrease.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\WeatherForecast.Domain.pdb
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\EntityFramework.xml
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\Newtonsoft.Json.xml
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\NotFoundMvc.pdb
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\System.Web.Helpers.xml
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\System.Web.Mvc.xml
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\System.Web.Razor.xml
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\System.Web.WebPages.xml
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\System.Web.Optimization.xml
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\obj\Debug\WeatherForecast.MVC.csprojResolveAssemblyReference.cache
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\obj\Debug\WeatherForecast.MVC.dll
+C:\Users\info_000\Documents\Skolarbete\ASP.NET MVC\mc22dg-2-1-individuellt-arbete\WeatherForecast\WeatherForecast.MVC\obj\Debug\WeatherForecast.MVC.pdb

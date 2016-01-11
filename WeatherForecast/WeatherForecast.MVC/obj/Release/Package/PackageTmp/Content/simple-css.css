@@ -1,0 +1,12 @@
+﻿.weatherSymbol{
+	padding-left:100px;
+}
+
+.temp{
+	padding-left:20px;
+}
+
+.error {
+    color:darkred;
+    font-weight:bold;
+}

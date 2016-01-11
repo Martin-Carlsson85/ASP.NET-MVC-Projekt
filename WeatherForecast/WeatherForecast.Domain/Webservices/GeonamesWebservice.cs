@@ -11,7 +11,7 @@ namespace WeatherForecast.Domain.Webservices
 {
    public class GeonamesWebservice : IGeonamesWebservice
     {
-        public IEnumerable<City> GetCity(string cityName)
+        public IEnumerable<City> GetCity(string cityName) //Lista med städer
         {
             string rawJson;
 

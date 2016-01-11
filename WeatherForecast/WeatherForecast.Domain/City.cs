@@ -10,10 +10,10 @@ namespace WeatherForecast.Domain
 {
     public partial class City
     {
-        public City()
+        public City() //Defaultkonstruktor som användas när informationen läses ut från databasen
         {
         }
-        public City(JToken cityToken)
+        public City(JToken cityToken) //Konstruktor som skickar in en parameter och instansierar namn, region och land-objekt
         {
             Name = cityToken.Value<string>("name");
             Region = cityToken.Value<string>("adminName1");
